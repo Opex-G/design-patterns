@@ -1,1 +1,1 @@
-# Some simple Design Patterns
+# Some simple Design Patterns writen in Java.
